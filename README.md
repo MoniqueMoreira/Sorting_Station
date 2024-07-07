@@ -5,6 +5,6 @@ Uma fábrica busca automatizar o processo de uma estação de classificação, c
 O processo se inicia quando o botão "Start" no Controlador Lógico Programável (CLP) é pressionado, ativando a “Esteira de entrada” que conduzirá as peças até um “Sensor de visão” responsável por identificar a peça de acordo com seu número. Assim que a peça for identificada, a comporta que estava fechada se abrirá, permitindo que a peça siga para a etapa de triagem na “Esteira de saída”, onde será direcionada pelas divisórias até o recipiente correto.
 
 <div style="display: flex; justify-content: center;">
-  <a name="numeros de peças"></a>
-  <img src="Figure_5.png" alt="q+" style="width: 47%; text-align: center;">
+  <a name="números das peças"></a>
+  <img src="Números das peças.png" text-align: center;">
 </div>
